@@ -2,7 +2,7 @@
 
 # Define global conversion factors
 FAHRENHEIT_TO_CELSIUS_FACTOR = 5 / 9
-CELSIUS_TO_FAHRENHEIT_FACTOR = 9 / 5  # Ensure this line matches exactly
+CELSIUS_TO_FAHRENHEIT_FACTOR = 9 / 5  # This line must match exactly
 
 CELSIUS_OFFSET = 32
 
